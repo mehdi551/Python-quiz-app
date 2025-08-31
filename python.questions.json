@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Which keyword do we use in Python to define a function, and why is it important?",
+    "answer_1": "func",
+    "answer_2": "def",
+    "answer_3": "function",
+    "answer_4": "define",
+    "right_answer": "def"
+  },
+  {
+    "title": "What will be the output of this expression in Python: print(2 ** 4)?",
+    "answer_1": "6",
+    "answer_2": "8",
+    "answer_3": "16",
+    "answer_4": "24",
+    "right_answer": "16"
+  },
+  {
+    "title": "Which Python data type cannot be changed after it is created and is used to store multiple items?",
+    "answer_1": "List",
+    "answer_2": "Dictionary",
+    "answer_3": "Tuple",
+    "answer_4": "Set",
+    "right_answer": "Tuple"
+  },
+  {
+    "title": "How do you write a comment in Python, and what is its purpose in your code?",
+    "answer_1": "// This is a comment",
+    "answer_2": "# This is a comment",
+    "answer_3": "<!-- This is a comment -->",
+    "answer_4": "/* This is a comment */",
+    "right_answer": "# This is a comment"
+  },
+  {
+    "title": "Which built-in Python function can be used to find the number of items in a list, tuple, or string?",
+    "answer_1": "length()",
+    "answer_2": "len()",
+    "answer_3": "count()",
+    "answer_4": "size()",
+    "right_answer": "len()"
+  },
+  {
+    "title": "What is the correct syntax to create an empty dictionary in Python?",
+    "answer_1": "my_dict = {}",
+    "answer_2": "my_dict = []",
+    "answer_3": "my_dict = ()",
+    "answer_4": "my_dict = dict[]",
+    "right_answer": "my_dict = {}"
+  },
+  {
+    "title": "Which operator in Python is used to divide two numbers and get only the integer part of the result?",
+    "answer_1": "/",
+    "answer_2": "//",
+    "answer_3": "%",
+    "answer_4": "**",
+    "right_answer": "//"
+  },
+  {
+    "title": "If you want to add a single item to the end of a Python list, which method should you use and why?",
+    "answer_1": "append()",
+    "answer_2": "add()",
+    "answer_3": "insert()",
+    "answer_4": "extend()",
+    "right_answer": "append()"
+  },
+  {
+    "title": "How can you check the data type of any variable in Python, and why might this be useful?",
+    "answer_1": "typeOf()",
+    "answer_2": "typeof()",
+    "answer_3": "type()",
+    "answer_4": "checkType()",
+    "right_answer": "type()"
+  }
+]
